@@ -1,5 +1,5 @@
 body{
-    background-image: url(imagens/fundo.png);
+    background-image: url(../static/fundo.png);
 }
 
 .header {
